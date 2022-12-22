@@ -1,6 +1,7 @@
 {
-  "scopeRequired": true,
-  "lang": "zh-cn",
+  "scopeRequired": false,
+  "validScopes": ["workspace", "package1", "package2", "package3"],
+  "scopeNotInRangeDescriptionx": "scope must be one of \"workspace\", \"package1\", \"package2\", \"package3\".",
   "postSubjectDescriptions": [
     "You have the possibility to include a field of additional information in commitlinterrc.json by using `postSubjectDescriptions` and display along with other information",
     "see more configuration details at https://github.com/legend80s/commit-msg-linter#commitlinterrcjson"
