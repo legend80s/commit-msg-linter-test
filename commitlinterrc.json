@@ -1,5 +1,5 @@
 {
-  "scopeRequired": false,
+  "scopeRequired": true,
   "validScopes": ["workspace", "package1", "package2", "package3"],
   "scopeNotInRangeDescriptionx": "scope must be one of \"workspace\", \"package1\", \"package2\", \"package3\".",
   "postSubjectDescriptions": [
