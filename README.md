@@ -1,6 +1,6 @@
 # commit-msg-linter-test
 dfsdf11
-1
+i1
 1
 1
 1
