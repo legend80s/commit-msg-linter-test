@@ -1,5 +1,23 @@
 {
+  "name": "commit-msg-linter-test",
+  "version": "1.0.0",
+  "description": "Test repo for git-commit-msg-linter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legend80s/git-commit-msg-linter.git"
+  },
   "devDependencies": {
     "git-commit-msg-linter": "file:../git-commit-msg-linter"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/legend80s/git-commit-msg-linter/issues"
+  },
+  "homepage": "https://github.com/legend80s/git-commit-msg-linter#readme"
 }
