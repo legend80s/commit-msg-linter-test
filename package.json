@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "git-commit-msg-linter": "file:../commit-msg-linter/packages/git-commit-msg-linter"
+    "git-commit-msg-linter": "file:../git-commit-msg-linter"
   }
 }
